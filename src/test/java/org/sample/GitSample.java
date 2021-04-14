@@ -5,6 +5,7 @@ public class GitSample {
 		System.out.println("new code");
 		System.out.println("modified");
 		System.out.println("steve");
+		System.out.println("vandhura");
 	}
 
 }
